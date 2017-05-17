@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: c1877efa578b8d84ba83908080e044d7
+timeCreated: 1494156954
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_013
+    100004: Icosphere
+    100006: Parete_back
+    100008: Parete_dx
+    100010: Parete_front
+    100012: Parete_sx
+    100014: Pavimento
+    100016: Rocce_pavimento
+    100018: Rocce_piccole
+    100020: Rocce_piccole_001
+    100022: Rocce_piccole_002
+    100024: Soffitto
+    400000: //RootNode
+    400002: Cube_013
+    400004: Icosphere
+    400006: Parete_back
+    400008: Parete_dx
+    400010: Parete_front
+    400012: Parete_sx
+    400014: Pavimento
+    400016: Rocce_pavimento
+    400018: Rocce_piccole
+    400020: Rocce_piccole_001
+    400022: Rocce_piccole_002
+    400024: Soffitto
+    2300000: Cube_013
+    2300002: Icosphere
+    2300004: Parete_back
+    2300006: Parete_dx
+    2300008: Parete_front
+    2300010: Parete_sx
+    2300012: Pavimento
+    2300014: Rocce_pavimento
+    2300016: Rocce_piccole
+    2300018: Rocce_piccole_001
+    2300020: Rocce_piccole_002
+    2300022: Soffitto
+    3300000: Cube_013
+    3300002: Icosphere
+    3300004: Parete_back
+    3300006: Parete_dx
+    3300008: Parete_front
+    3300010: Parete_sx
+    3300012: Pavimento
+    3300014: Rocce_pavimento
+    3300016: Rocce_piccole
+    3300018: Rocce_piccole_001
+    3300020: Rocce_piccole_002
+    3300022: Soffitto
+    4300000: Rocce_piccole_002
+    4300002: Icosphere
+    4300004: Rocce_piccole_001
+    4300006: Cube_013
+    4300008: Rocce_pavimento
+    4300010: Rocce_piccole
+    4300012: Parete_back
+    4300014: Parete_front
+    4300016: Soffitto
+    4300018: Parete_sx
+    4300020: Parete_dx
+    4300022: Pavimento
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
